@@ -1,0 +1,2 @@
+# MyDocKeeperPrivacyPolicy
+MyDocKeeperPrivacyPolicy
